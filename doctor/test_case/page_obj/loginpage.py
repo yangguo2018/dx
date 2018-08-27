@@ -35,7 +35,7 @@ class LoginPage(Page):
         self.login_button()
         time.sleep(5)
 
-    # 错误提示的元素属性
+    # 错误提示的元素 = (By.XPATH, "//div[@class='error-text']/span")
     login_error_hint_loc = (By.XPATH, "//div[@class='error-text']/span")
     # 成功后用户名称元素属性，依此验证登录成功
     login_success_loc = (By.CLASS_NAME, "userName")

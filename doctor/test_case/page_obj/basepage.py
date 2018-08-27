@@ -1,3 +1,5 @@
+import time
+
 class Page(object):
     '''
     页面基类，用于所有页面的继承
@@ -15,6 +17,7 @@ class Page(object):
     def open(self, url):
         url = self.base_url + url
         self.driver.get(url)
+        time.sleep(3)
         assert self.driver.current_url == url, 'Do not land on %s' % url
 
     # 重定义find_element()方法

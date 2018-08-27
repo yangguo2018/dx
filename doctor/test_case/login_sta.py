@@ -1,6 +1,6 @@
 import unittest
 from doctor.test_case.models import myunit, screenshot
-from doctor.test_case.page_obj import basepage, loginpage
+from doctor.test_case.page_obj import loginpage
 import time
 
 
