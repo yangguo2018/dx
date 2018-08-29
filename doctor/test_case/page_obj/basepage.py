@@ -1,5 +1,6 @@
 import time
 
+
 class Page(object):
     '''
     页面基类，用于所有页面的继承
@@ -29,5 +30,5 @@ class Page(object):
         return self.driver.find_elements(*loc)
 
     # 重定义execute_script()方法
-    def script(self, src):
-        return self.driver.execute_script(src)
+    def execute_script(self, *src):
+        return self.driver.execute_script(*src)
