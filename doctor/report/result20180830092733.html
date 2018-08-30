@@ -189,9 +189,9 @@ function showOutput(id, name) {
 
 <div class='heading'>
 <h1>自动化测试用例</h1>
-<p class='attribute'><strong>Start Time:</strong> 2018-08-23 16:50:33</p>
-<p class='attribute'><strong>Duration:</strong> 0:01:33.062306</p>
-<p class='attribute'><strong>Status:</strong> Pass 3 Failure 1</p>
+<p class='attribute'><strong>Start Time:</strong> 2018-08-30 09:27:33</p>
+<p class='attribute'><strong>Duration:</strong> 0:04:37.357733</p>
+<p class='attribute'><strong>Status:</strong> Pass 6 Error 1</p>
 
 <p class='description'>用例执行情况</p>
 </div>
@@ -221,12 +221,12 @@ function showOutput(id, name) {
     <td>View</td>
 </tr>
 
-<tr class='failClass'>
+<tr class='errorClass'>
     <td>login_sta.LoginTest</td>
     <td>4</td>
     <td>3</td>
-    <td>1</td>
     <td>0</td>
+    <td>1</td>
     <td><a href="javascript:showClassDetail('c1',4)">Detail</a></td>
 </tr>
 
@@ -279,12 +279,12 @@ pt1.2:
 </tr>
 
 <tr id='ft1.3' class='none'>
-    <td class='failCase'><div class='testcase'>test_login_success</div></td>
+    <td class='errorCase'><div class='testcase'>test_login_success</div></td>
     <td colspan='5' align='center'>
 
     <!--css div popup start-->
     <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_ft1.3')" >
-        fail</a>
+        error</a>
 
     <div id='div_ft1.3' class="popup_window">
         <div style='text-align: right; color:red;cursor:pointer'>
@@ -296,13 +296,37 @@ pt1.2:
 ft1.3: Traceback (most recent call last):
   File "E:\PycharmProjects\SeleniumDoctor\doctor\test_case\login_sta.py", line 36, in test_login_success
     self.assertEqual(lo.login_success(), '谢医生')
-AssertionError: '' != '谢医生'
-+ 谢医生
+  File "E:\PycharmProjects\SeleniumDoctor\doctor\test_case\page_obj\loginpage.py", line 49, in login_success
+    return self.find_element(*self.login_success_loc).text
+  File "E:\PycharmProjects\SeleniumDoctor\doctor\test_case\page_obj\basepage.py", line 26, in find_element
+    return self.driver.find_element(*loc)
+  File "E:\PycharmProjects\SeleniumDoctor\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 966, in find_element
+    'value': value})['value']
+  File "E:\PycharmProjects\SeleniumDoctor\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 320, in execute
+    self.error_handler.check_response(response)
+  File "E:\PycharmProjects\SeleniumDoctor\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"class name","selector":"userName"}
+  (Session info: chrome=67.0.3396.79)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 6.1.7601 SP1 x86_64)
+
 Traceback (most recent call last):
   File "E:\PycharmProjects\SeleniumDoctor\doctor\test_case\login_sta.py", line 36, in test_login_success
     self.assertEqual(lo.login_success(), '谢医生')
-AssertionError: '' != '谢医生'
-+ 谢医生
+  File "E:\PycharmProjects\SeleniumDoctor\doctor\test_case\page_obj\loginpage.py", line 49, in login_success
+    return self.find_element(*self.login_success_loc).text
+  File "E:\PycharmProjects\SeleniumDoctor\doctor\test_case\page_obj\basepage.py", line 26, in find_element
+    return self.driver.find_element(*loc)
+  File "E:\PycharmProjects\SeleniumDoctor\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 966, in find_element
+    'value': value})['value']
+  File "E:\PycharmProjects\SeleniumDoctor\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 320, in execute
+    self.error_handler.check_response(response)
+  File "E:\PycharmProjects\SeleniumDoctor\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"class name","selector":"userName"}
+  (Session info: chrome=67.0.3396.79)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 6.1.7601 SP1 x86_64)
+
 
 
         </pre>
@@ -336,12 +360,102 @@ pt1.4:
     </td>
 </tr>
 
-<tr id='total_row'>
-    <td>Total</td>
-    <td>4</td>
-    <td>3</td>
+<tr class='passClass'>
+    <td>myscheduling_sta.MyScheduling</td>
+    <td>1</td>
     <td>1</td>
     <td>0</td>
+    <td>0</td>
+    <td><a href="javascript:showClassDetail('c2',1)">Detail</a></td>
+</tr>
+
+<tr id='pt2.1' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_add_scheduling_success</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt2.1')" >
+        pass</a>
+
+    <div id='div_pt2.1' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt2.1').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt2.1: 
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr class='passClass'>
+    <td>reservedpatient_sta.ReservedPatientTest</td>
+    <td>2</td>
+    <td>2</td>
+    <td>0</td>
+    <td>0</td>
+    <td><a href="javascript:showClassDetail('c3',2)">Detail</a></td>
+</tr>
+
+<tr id='pt3.1' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_reservedpatient</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt3.1')" >
+        pass</a>
+
+    <div id='div_pt3.1' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt3.1').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt3.1: 
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='pt3.2' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_viewdetails</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt3.2')" >
+        pass</a>
+
+    <div id='div_pt3.2' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt3.2').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt3.2: 
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+</tr>
+
+<tr id='total_row'>
+    <td>Total</td>
+    <td>7</td>
+    <td>6</td>
+    <td>0</td>
+    <td>1</td>
     <td>&nbsp;</td>
 </tr>
 </table>
