@@ -2,118 +2,112 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc2f58e7-8c11-4cb2-a6e8-9d90d6cdbb9a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/成功添加排期用例20180830160211.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/成功添加排期用例20180830170226.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/成功添加排期用例20180830173108.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/成功添加排期用例20180831131536.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/成功添加排期用例20180831164045.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/排期开始时间大于结束时间用例20180830161138.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/排期开始时间大于结束时间用例20180830161754.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/排期开始时间大于结束时间用例20180830162344.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/排期开始时间大于结束时间用例20180830163001.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/排期开始时间大于结束时间用例20180831161419.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/排期开始时间大于结束时间用例20180831164119.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/排期时间在当前时间之前用例20180830161116.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/排期时间在当前时间之前用例20180830161731.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/排期时间在当前时间之前用例20180830162322.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/排期时间在当前时间之前用例20180830162939.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/排期时间在当前时间之前用例20180831161408.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/排期时间在当前时间之前用例20180831164107.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/排期时间已存在用例20180830160233.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/排期时间已存在用例20180830161054.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/排期时间已存在用例20180830161710.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/排期时间已存在用例20180830162300.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/排期时间已存在用例20180830162917.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/排期时间已存在用例20180831161357.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/排期时间已存在用例20180831164056.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/点击查看详情用例20180830162427.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/点击查看详情用例20180830173152.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/点击查看详情用例20180830173528.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/点击查看详情用例20180831114817.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/点击查看详情用例20180831123211.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/点击查看详情用例20180831131127.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/点击查看详情用例20180831131619.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/点击查看详情用例20180831161452.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/点击查看详情用例20180831164151.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/用户不存在用例20180830140524.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/用户不存在用例20180830153620.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/用户不存在用例20180830154350.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/用户不存在用例20180830155520.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/用户不存在用例20180831161234.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/用户不存在用例20180831164012.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/用户名密码均为空用例20180830140502.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/用户名密码均为空用例20180830153606.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/用户名密码均为空用例20180830154329.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/用户名密码均为空用例20180830155459.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/用户名密码均为空用例20180831161146.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/用户名密码均为空用例20180831162236.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/用户名密码均为空用例20180831163950.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/用户名或密码输入错误用例20180830140615.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/用户名或密码输入错误用例20180830153651.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/用户名或密码输入错误用例20180830154339.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/用户名或密码输入错误用例20180830155509.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/用户名或密码输入错误用例20180831161212.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/用户名或密码输入错误用例20180831164001.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/登录成功用例20180830140551.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/登录成功用例20180830154401.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/登录成功用例20180830155530.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/登录成功用例20180831164023.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/退出登录用例20180831123219.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/退出登录用例20180831131135.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/退出登录用例20180831131630.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/退出登录用例20180831161514.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/退出登录用例20180831164213.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/预约患者列表用例20180830162400.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/预约患者列表用例20180830173125.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/预约患者列表用例20180830173502.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/预约患者列表用例20180831114749.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/预约患者列表用例20180831131553.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/预约患者列表用例20180831161436.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/image/预约患者列表用例20180831164135.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/result20180830153551.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/result20180830154312.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/result20180830155444.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/result20180830160135.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/result20180830161006.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/result20180830161622.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/result20180830162212.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/result20180830162828.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/result20180830165709.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/result20180830170506.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/result20180830171751.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/result20180830173042.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/result20180830173416.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/result20180830173632.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/result20180830174108.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/result20180830174350.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/result20180831114659.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/result20180831122642.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/result20180831122953.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/result20180831131011.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/result20180831131508.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/result20180831140009.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/result20180831160210.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/result20180831161108.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/result20180831162216.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/result20180831162400.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/result20180831162608.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/result20180831162618.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/result20180831162703.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/result20180831162910.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/result20180831163122.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/report/result20180831163935.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/test_case/case1_login_sta.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/test_case/case4_logout_sta.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doctor/test_case/page_obj/logoutpage.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/test_case/login_sta.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/test_case/models/driver.py" beforeDir="false" afterPath="$PROJECT_DIR$/doctor/test_case/models/drivers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/test_case/models/myunit.py" beforeDir="false" afterPath="$PROJECT_DIR$/doctor/test_case/models/myunit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/test_case/models/screenshot.py" beforeDir="false" afterPath="$PROJECT_DIR$/doctor/test_case/models/screenshot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/test_case/myscheduling_sta.py" beforeDir="false" afterPath="$PROJECT_DIR$/doctor/test_case/case2_myscheduling_sta.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/test_case/page_obj/myschedulingpage.py" beforeDir="false" afterPath="$PROJECT_DIR$/doctor/test_case/page_obj/myschedulingpage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/test_case/page_obj/reservedpatientpage.py" beforeDir="false" afterPath="$PROJECT_DIR$/doctor/test_case/page_obj/reservedpatientpage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/test_case/reservedpatient_sta.py" beforeDir="false" afterPath="$PROJECT_DIR$/doctor/test_case/case3_reservedpatient_sta.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/成功添加排期用例20180830160211.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/成功添加排期用例20180830170226.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/成功添加排期用例20180830173108.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/成功添加排期用例20180831131536.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/排期开始时间大于结束时间用例20180830161138.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/排期开始时间大于结束时间用例20180830161754.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/排期开始时间大于结束时间用例20180830162344.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/排期开始时间大于结束时间用例20180830163001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/排期开始时间大于结束时间用例20180831161419.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/排期时间在当前时间之前用例20180830161116.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/排期时间在当前时间之前用例20180830161731.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/排期时间在当前时间之前用例20180830162322.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/排期时间在当前时间之前用例20180830162939.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/排期时间在当前时间之前用例20180831161408.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/排期时间已存在用例20180830160233.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/排期时间已存在用例20180830161054.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/排期时间已存在用例20180830161710.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/排期时间已存在用例20180830162300.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/排期时间已存在用例20180830162917.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/排期时间已存在用例20180831161357.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/添加排期成功20180830093038.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/点击查看详情用例20180827182543.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/点击查看详情用例20180830093208.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/点击查看详情用例20180830162427.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/点击查看详情用例20180830173152.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/点击查看详情用例20180830173528.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/点击查看详情用例20180831114817.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/点击查看详情用例20180831123211.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/点击查看详情用例20180831131127.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/点击查看详情用例20180831131619.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/点击查看详情用例20180831161452.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/用户不存在用例20180823165807.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/用户不存在用例20180827182353.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/用户不存在用例20180830092839.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/用户不存在用例20180830140524.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/用户不存在用例20180830153620.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/用户不存在用例20180830154350.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/用户不存在用例20180830155520.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/用户不存在用例20180831161234.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/用户名密码均为空用例20180823165748.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/用户名密码均为空用例20180827182332.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/用户名密码均为空用例20180830092810.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/用户名密码均为空用例20180830140502.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/用户名密码均为空用例20180830153606.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/用户名密码均为空用例20180830154329.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/用户名密码均为空用例20180830155459.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/用户名密码均为空用例20180831161146.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/用户名密码均为空用例20180831162236.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/用户名或密码输入错误用例20180830140615.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/用户名或密码输入错误用例20180830153651.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/用户名或密码输入错误用例20180830154339.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/用户名或密码输入错误用例20180830155509.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/用户名或密码输入错误用例20180831161212.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/用户名或密码错误用例20180823165845.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/用户名或密码错误用例20180827182440.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/用户名或密码错误用例20180830092943.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/登录成功用例20180823165826.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/登录成功用例20180827182419.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/登录成功用例20180830140551.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/登录成功用例20180830154401.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/登录成功用例20180830155530.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/退出登录用例20180831123219.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/退出登录用例20180831131135.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/退出登录用例20180831131630.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/退出登录用例20180831161514.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/预约患者列表用例20180830093119.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/预约患者列表用例20180830162400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/预约患者列表用例20180830173125.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/预约患者列表用例20180830173502.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/预约患者列表用例20180831114749.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/预约患者列表用例20180831131553.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/image/预约患者列表用例20180831161436.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/result20180829135539.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/result20180830092733.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/result20180830153551.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/result20180830154312.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/result20180830155444.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/result20180830160135.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/result20180830161006.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/result20180830161622.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/result20180830162212.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/result20180830162828.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/result20180830165709.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/result20180830170506.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/result20180830171751.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/result20180830173042.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/result20180830173416.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/result20180830173632.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/result20180830174108.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/result20180830174350.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/result20180831114659.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/result20180831122642.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/result20180831122953.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/result20180831131011.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/result20180831131508.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/result20180831140009.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/result20180831160210.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/result20180831161108.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/result20180831162216.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/result20180831162400.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/result20180831162608.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/result20180831162618.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/result20180831162703.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/result20180831162910.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/report/result20180831163122.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -470,7 +464,14 @@
       <option name="project" value="LOCAL" />
       <updated>1535600981916</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="myunit.py 封装了setUp()、tearDown()及登录方法，这样每个测试类只需要初始化并登录一次，而不用每个case都初始化并登录一次">
+      <created>1535705868774</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1535705868775</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -509,13 +510,13 @@
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50076336" side_tool="true" weight="0.3293919" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="7" sideWeight="0.50076336" side_tool="true" visible="true" weight="0.3293919" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.3293919" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49923664" weight="0.4391892" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3293919" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26030535" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26030535" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -541,7 +542,8 @@
     <MESSAGE value="111" />
     <MESSAGE value="222" />
     <MESSAGE value="333" />
-    <option name="LAST_COMMIT_MESSAGE" value="333" />
+    <MESSAGE value="myunit.py 封装了setUp()、tearDown()及登录方法，这样每个测试类只需要初始化并登录一次，而不用每个case都初始化并登录一次" />
+    <option name="LAST_COMMIT_MESSAGE" value="myunit.py 封装了setUp()、tearDown()及登录方法，这样每个测试类只需要初始化并登录一次，而不用每个case都初始化并登录一次" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
