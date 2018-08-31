@@ -1,6 +1,5 @@
 from .basepage import Page
 from selenium.webdriver.common.by import By
-from .loginpage import LoginPage
 import time
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -76,10 +75,11 @@ class MySchedulingPage(Page):
 
     # 统一添加排期操作
     def add_scheduling(self, starttime, endtime):
-        # 先登录
-        login = LoginPage(self.driver)
-        login.user_login()
-        # 再打开我的排期页面
+        # # 先登录
+        # login = LoginPage(self.driver)
+        # login.user_login()
+
+        # 打开我的排期页面
         self.open(self.url)
         before_scheduling = self.scheduling_record()
         # 然后执行排期操作

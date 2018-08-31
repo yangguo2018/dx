@@ -46,9 +46,10 @@ class ReservedPatient(Page):
 
     # 登录后打开预约患者页面
     def open_page(self):
-        # 先登录
-        login = LoginPage(self.driver)
-        login.user_login()
-        # 再打开预约患者页面
+        # # 先登录
+        # login = LoginPage(self.driver)
+        # login.user_login()
+
+        # 打开预约患者页面
         self.open(self.url)
 

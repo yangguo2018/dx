@@ -9,14 +9,16 @@ def browser(browsername):
     logger = log.Log()
     if browsername == 'Chrome':
         driver = webdriver.Chrome()
+        return driver
     elif browsername == 'FireFox':
         driver = webdriver.Firefox()
+        return driver
     elif browsername == 'IE':
         driver = webdriver.Ie()
+        return driver
     else:
         print("输入有误，目前只支持Chrome,FireFox,IE浏览器！")
     logger.info("{0} Start a new browser: {1}".format(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()), browsername))
-    return driver
 
     # # 多线程分布式启动
     # host = '127.0.0.1:4444'     # 运行主机：端口号 （本机默认：127.0.0.1:4444）

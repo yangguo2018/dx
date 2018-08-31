@@ -1,7 +1,5 @@
-import unittest
 from doctor.test_case.models import myunit, screenshot
 from doctor.test_case.page_obj import reservedpatientpage
-import time
 
 
 class ReservedPatientTest(myunit.MyTest):
@@ -13,22 +11,19 @@ class ReservedPatientTest(myunit.MyTest):
     #     filename = '预约患者列表为空' + time.strftime("%Y%m%d%H%M%S", time.localtime()) + '.png'
     #     screenshot.insert_img(self.driver, filename)
 
-    # 预约患者列表用例
-    def test_reservedpatient(self):
+    def test_01(self):
+        """预约患者列表用例"""
         lo = reservedpatientpage.ReservedPatient(self.driver)
         lo.open_page()
         self.assertTrue(lo.is_element_exist('patientDetail'))
-        filename = '预约患者列表用例' + time.strftime("%Y%m%d%H%M%S", time.localtime()) + '.png'
-        screenshot.insert_img(self.driver, filename)
+        screenshot.insert_img(self.driver, self.test_01.__doc__)
 
-    # 点击“查看详情”用例
-    def test_viewdetails(self):
+    def test_02(self):
+        """点击查看详情用例"""
         lo = reservedpatientpage.ReservedPatient(self.driver)
         lo.open_page()
         lo.view_details_button()
-        print(lo.view_details_success())
         self.assertIn('共预约', lo.view_details_success())
-        filename = '点击查看详情用例' + time.strftime("%Y%m%d%H%M%S", time.localtime()) + '.png'
-        screenshot.insert_img(self.driver, filename)
+        screenshot.insert_img(self.driver, self.test_02.__doc__)
 
 

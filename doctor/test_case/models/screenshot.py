@@ -7,8 +7,9 @@ import time
 """
 
 
-def insert_img(driver, filename):
+def insert_img(driver, pic_name):
     base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '../..'))
+    filename = pic_name + time.strftime("%Y%m%d%H%M%S", time.localtime()) + '.png'
     file_path = os.path.join(os.path.join(base_dir, 'report\image'), filename)
     driver.get_screenshot_as_file(file_path)
 
