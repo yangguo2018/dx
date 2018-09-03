@@ -2,112 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc2f58e7-8c11-4cb2-a6e8-9d90d6cdbb9a" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/doctor/test_case/case4_accountsetting_sta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doctor/test_case/page_obj/accountsettingpage.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/成功添加排期用例20180830160211.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/成功添加排期用例20180830170226.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/成功添加排期用例20180830173108.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/成功添加排期用例20180831131536.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/排期开始时间大于结束时间用例20180830161138.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/排期开始时间大于结束时间用例20180830161754.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/排期开始时间大于结束时间用例20180830162344.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/排期开始时间大于结束时间用例20180830163001.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/排期开始时间大于结束时间用例20180831161419.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/排期时间在当前时间之前用例20180830161116.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/排期时间在当前时间之前用例20180830161731.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/排期时间在当前时间之前用例20180830162322.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/排期时间在当前时间之前用例20180830162939.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/排期时间在当前时间之前用例20180831161408.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/排期时间已存在用例20180830160233.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/排期时间已存在用例20180830161054.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/排期时间已存在用例20180830161710.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/排期时间已存在用例20180830162300.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/排期时间已存在用例20180830162917.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/排期时间已存在用例20180831161357.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/添加排期成功20180830093038.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/点击查看详情用例20180827182543.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/点击查看详情用例20180830093208.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/点击查看详情用例20180830162427.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/点击查看详情用例20180830173152.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/点击查看详情用例20180830173528.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/点击查看详情用例20180831114817.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/点击查看详情用例20180831123211.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/点击查看详情用例20180831131127.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/点击查看详情用例20180831131619.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/点击查看详情用例20180831161452.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/用户不存在用例20180823165807.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/用户不存在用例20180827182353.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/用户不存在用例20180830092839.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/用户不存在用例20180830140524.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/用户不存在用例20180830153620.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/用户不存在用例20180830154350.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/用户不存在用例20180830155520.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/用户不存在用例20180831161234.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/用户名密码均为空用例20180823165748.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/用户名密码均为空用例20180827182332.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/用户名密码均为空用例20180830092810.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/用户名密码均为空用例20180830140502.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/用户名密码均为空用例20180830153606.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/用户名密码均为空用例20180830154329.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/用户名密码均为空用例20180830155459.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/用户名密码均为空用例20180831161146.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/用户名密码均为空用例20180831162236.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/用户名或密码输入错误用例20180830140615.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/用户名或密码输入错误用例20180830153651.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/用户名或密码输入错误用例20180830154339.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/用户名或密码输入错误用例20180830155509.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/用户名或密码输入错误用例20180831161212.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/用户名或密码错误用例20180823165845.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/用户名或密码错误用例20180827182440.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/用户名或密码错误用例20180830092943.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/登录成功用例20180823165826.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/登录成功用例20180827182419.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/登录成功用例20180830140551.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/登录成功用例20180830154401.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/登录成功用例20180830155530.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/退出登录用例20180831123219.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/退出登录用例20180831131135.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/退出登录用例20180831131630.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/退出登录用例20180831161514.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/预约患者列表用例20180830093119.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/预约患者列表用例20180830162400.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/预约患者列表用例20180830173125.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/预约患者列表用例20180830173502.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/预约患者列表用例20180831114749.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/预约患者列表用例20180831131553.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/image/预约患者列表用例20180831161436.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/result20180829135539.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/result20180830092733.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/result20180830153551.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/result20180830154312.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/result20180830155444.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/result20180830160135.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/result20180830161006.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/result20180830161622.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/result20180830162212.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/result20180830162828.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/result20180830165709.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/result20180830170506.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/result20180830171751.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/result20180830173042.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/result20180830173416.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/result20180830173632.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/result20180830174108.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/result20180830174350.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/result20180831114659.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/result20180831122642.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/result20180831122953.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/result20180831131011.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/result20180831131508.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/result20180831140009.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/result20180831160210.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/result20180831161108.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/result20180831162216.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/result20180831162400.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/result20180831162608.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/result20180831162618.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/result20180831162703.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/result20180831162910.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doctor/report/result20180831163122.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/test_case/case2_myscheduling_sta.py" beforeDir="false" afterPath="$PROJECT_DIR$/doctor/test_case/case2_myscheduling_sta.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/test_case/case4_logout_sta.py" beforeDir="false" afterPath="$PROJECT_DIR$/doctor/test_case/case5_logout_sta.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doctor/test_case/page_obj/loginpage.py" beforeDir="false" afterPath="$PROJECT_DIR$/doctor/test_case/page_obj/loginpage.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -119,15 +19,19 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/SeleniumDoctor$Unittests_for_case2_myscheduling_sta_MyScheduling_test_01.coverage" NAME="Unittests for case2_myscheduling_sta.MyScheduling.test_01 Coverage Results" MODIFIED="1535692472411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/doctor/test_case" />
     <SUITE FILE_PATH="coverage/SeleniumDoctor$Unittests_in_login_sta_py.coverage" NAME="Unittests in login_sta.py Coverage Results" MODIFIED="1535609081113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/doctor/test_case" />
+    <SUITE FILE_PATH="coverage/SeleniumDoctor$Unittests_for_case4_accountsetting_sta_AccountSetting_test_01.coverage" NAME="Unittests for case4_accountsetting_sta.AccountSetting.test_01 Coverage Results" MODIFIED="1535960966821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/doctor/test_case" />
     <SUITE FILE_PATH="coverage/SeleniumDoctor$Unittests_for_myscheduling_sta_MyScheduling.coverage" NAME="Unittests for myscheduling_sta.MyScheduling Coverage Results" MODIFIED="1535514309288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/doctor/test_case" />
     <SUITE FILE_PATH="coverage/SeleniumDoctor$Unittests_for_login_sta_LoginTest.coverage" NAME="Unittests for login_sta.LoginTest Coverage Results" MODIFIED="1534931732802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/doctor/test_case" />
+    <SUITE FILE_PATH="coverage/SeleniumDoctor$Unittests_for_case4_accountsetting_sta_AccountSetting.coverage" NAME="Unittests for case4_accountsetting_sta.AccountSetting Coverage Results" MODIFIED="1535960356195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/doctor/test_case" />
+    <SUITE FILE_PATH="coverage/SeleniumDoctor$Unittests_for_case4_accountsetting_sta_AccountSetting_test_02.coverage" NAME="Unittests for case4_accountsetting_sta.AccountSetting.test_02 Coverage Results" MODIFIED="1535960799377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/doctor/test_case" />
     <SUITE FILE_PATH="coverage/SeleniumDoctor$Unittests_for_login_sta_LoginTest_test_login_allnull.coverage" NAME="Unittests for login_sta.LoginTest.test_login_allnull Coverage Results" MODIFIED="1534931654290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/doctor/test_case" />
-    <SUITE FILE_PATH="coverage/SeleniumDoctor$run_doctor.coverage" NAME="run_doctor Coverage Results" MODIFIED="1535704771933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SeleniumDoctor$run_doctor.coverage" NAME="run_doctor Coverage Results" MODIFIED="1535961384130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/SeleniumDoctor$Unittests_in_logout_sta_py.coverage" NAME="Unittests in logout_sta.py Coverage Results" MODIFIED="1535689295594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/doctor/test_case" />
     <SUITE FILE_PATH="coverage/SeleniumDoctor$Unittests_in_myscheduling_sta_py.coverage" NAME="Unittests in myscheduling_sta.py Coverage Results" MODIFIED="1535509682026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/doctor/test_case" />
     <SUITE FILE_PATH="coverage/SeleniumDoctor$Unittests_for_login_sta_LoginTest_test_login_nousererror.coverage" NAME="Unittests for login_sta.LoginTest.test_login_nousererror Coverage Results" MODIFIED="1535611900480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/doctor/test_case" />
     <SUITE FILE_PATH="coverage/SeleniumDoctor$screenshot.coverage" NAME="screenshot Coverage Results" MODIFIED="1534923430726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/doctor/test_case/models" />
     <SUITE FILE_PATH="coverage/SeleniumDoctor$log.coverage" NAME="log Coverage Results" MODIFIED="1535010084269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/package" />
+    <SUITE FILE_PATH="coverage/SeleniumDoctor$Unittests_for_case4_accountsetting_sta_AccountSetting_test_04.coverage" NAME="Unittests for case4_accountsetting_sta.AccountSetting.test_04 Coverage Results" MODIFIED="1535960632811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/doctor/test_case" />
     <SUITE FILE_PATH="coverage/SeleniumDoctor$Unittests_for_myscheduling_sta_MyScheduling_test_add_scheduling_success.coverage" NAME="Unittests for myscheduling_sta.MyScheduling.test_add_scheduling_success Coverage Results" MODIFIED="1535520416855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/doctor/test_case" />
     <SUITE FILE_PATH="coverage/SeleniumDoctor$test.coverage" NAME="test Coverage Results" MODIFIED="1535608968262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/doctor/data" />
     <SUITE FILE_PATH="coverage/SeleniumDoctor$driver.coverage" NAME="driver Coverage Results" MODIFIED="1535010817055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/doctor/test_case/models" />
@@ -136,14 +40,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="myunit.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="myunit.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/doctor/test_case/models/myunit.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
+            <state relative-caret-position="179">
               <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-              <folding>
-                <element signature="e#0#27#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -151,10 +52,19 @@
       <file leaf-file-name="run_doctor.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/run_doctor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state>
+              <caret column="34" selection-start-column="20" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="drivers.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/doctor/test_case/models/drivers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
               <folding>
-                <element signature="e#0#46#0" expanded="true" />
+                <element signature="e#0#30#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -163,8 +73,8 @@
       <file leaf-file-name="loginpage.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/doctor/test_case/page_obj/loginpage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="163">
-              <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+            <state relative-caret-position="-2">
+              <caret line="25" column="10" lean-forward="true" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -172,14 +82,47 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="case1_login_sta.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="case1_login_sta.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/doctor/test_case/case1_login_sta.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state>
+              <caret selection-end-line="4" selection-end-column="49" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="case4_accountsetting_sta.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/doctor/test_case/case4_accountsetting_sta.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" column="49" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="49" />
+              <folding>
+                <element signature="e#0#54#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="accountsettingpage.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/doctor/test_case/page_obj/accountsettingpage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2578">
+              <caret line="131" selection-start-line="131" selection-end-line="131" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="basepage.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/doctor/test_case/page_obj/basepage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -212,7 +155,6 @@
         <option value="$PROJECT_DIR$/package/log.py" />
         <option value="$PROJECT_DIR$/package/HTMLTestRunner.py" />
         <option value="$PROJECT_DIR$/doctor/test_case/page_obj/reservedpatient.py" />
-        <option value="$PROJECT_DIR$/doctor/test_case/page_obj/loginpage.py" />
         <option value="$PROJECT_DIR$/doctor/test_case/page_obj/myscheduling_sta.py" />
         <option value="$PROJECT_DIR$/doctor/test_case/models/blankclick.py" />
         <option value="$PROJECT_DIR$/doctor/test_case/page_obj/basepage.py" />
@@ -230,11 +172,15 @@
         <option value="$PROJECT_DIR$/doctor/test_case/case1_login_sta_bak.py" />
         <option value="$PROJECT_DIR$/doctor/test_case/page_obj/reservedpatientpage.py" />
         <option value="$PROJECT_DIR$/doctor/test_case/case4_logout_sta.py" />
-        <option value="$PROJECT_DIR$/doctor/test_case/case2_myscheduling_sta.py" />
         <option value="$PROJECT_DIR$/doctor/test_case/case3_reservedpatient_sta.py" />
         <option value="$PROJECT_DIR$/doctor/test_case/page_obj/myschedulingpage.py" />
         <option value="$PROJECT_DIR$/doctor/test_case/models/myunit.py" />
         <option value="$PROJECT_DIR$/doctor/test_case/case1_login_sta.py" />
+        <option value="$PROJECT_DIR$/doctor/test_case/page_obj/case4_accountsetting_sta.py" />
+        <option value="$PROJECT_DIR$/doctor/test_case/case2_myscheduling_sta.py" />
+        <option value="$PROJECT_DIR$/doctor/test_case/case4_accountsetting_sta.py" />
+        <option value="$PROJECT_DIR$/doctor/test_case/page_obj/loginpage.py" />
+        <option value="$PROJECT_DIR$/doctor/test_case/page_obj/accountsettingpage.py" />
       </list>
     </option>
   </component>
@@ -261,6 +207,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -297,7 +244,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -344,7 +290,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Unittests for case2_myscheduling_sta.MyScheduling.test_01" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for case4_accountsetting_sta.AccountSetting" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="SeleniumDoctor" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -355,10 +301,10 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;case2_myscheduling_sta.MyScheduling.test_01&quot;" />
+      <option name="_new_target" value="&quot;case4_accountsetting_sta.AccountSetting&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="Unittests for doctor.test_case.case1_login_sta.LoginTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for case4_accountsetting_sta.AccountSetting.test_01" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="SeleniumDoctor" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -369,10 +315,10 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;doctor.test_case.case1_login_sta.LoginTest&quot;" />
+      <option name="_new_target" value="&quot;case4_accountsetting_sta.AccountSetting.test_01&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="Unittests for models.myunit.MyTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for case4_accountsetting_sta.AccountSetting.test_02" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="SeleniumDoctor" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -383,10 +329,10 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;models.myunit.MyTest&quot;" />
+      <option name="_new_target" value="&quot;case4_accountsetting_sta.AccountSetting.test_02&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="Unittests in case1_login_sta.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for case4_accountsetting_sta.AccountSetting.test_04" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="SeleniumDoctor" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -397,38 +343,22 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/doctor/test_case/case1_login_sta.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-    </configuration>
-    <configuration name="Unittests in case4_logout_sta.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumDoctor" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/doctor/test_case" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/doctor/test_case/case4_logout_sta.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="_new_target" value="&quot;case4_accountsetting_sta.AccountSetting.test_04&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
     <list>
       <item itemvalue="Python.run_doctor" />
-      <item itemvalue="Python tests.Unittests for doctor.test_case.case1_login_sta.LoginTest" />
-      <item itemvalue="Python tests.Unittests in case1_login_sta.py" />
-      <item itemvalue="Python tests.Unittests for models.myunit.MyTest" />
-      <item itemvalue="Python tests.Unittests in case4_logout_sta.py" />
-      <item itemvalue="Python tests.Unittests for case2_myscheduling_sta.MyScheduling.test_01" />
+      <item itemvalue="Python tests.Unittests for case4_accountsetting_sta.AccountSetting" />
+      <item itemvalue="Python tests.Unittests for case4_accountsetting_sta.AccountSetting.test_04" />
+      <item itemvalue="Python tests.Unittests for case4_accountsetting_sta.AccountSetting.test_02" />
+      <item itemvalue="Python tests.Unittests for case4_accountsetting_sta.AccountSetting.test_01" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests for case2_myscheduling_sta.MyScheduling.test_01" />
-        <item itemvalue="Python tests.Unittests in case4_logout_sta.py" />
-        <item itemvalue="Python tests.Unittests for models.myunit.MyTest" />
-        <item itemvalue="Python tests.Unittests for doctor.test_case.case1_login_sta.LoginTest" />
-        <item itemvalue="Python tests.Unittests in case1_login_sta.py" />
+        <item itemvalue="Python tests.Unittests for case4_accountsetting_sta.AccountSetting.test_01" />
+        <item itemvalue="Python tests.Unittests for case4_accountsetting_sta.AccountSetting.test_02" />
+        <item itemvalue="Python tests.Unittests for case4_accountsetting_sta.AccountSetting.test_04" />
+        <item itemvalue="Python tests.Unittests for case4_accountsetting_sta.AccountSetting" />
       </list>
     </recent_temporary>
   </component>
@@ -475,24 +405,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_myscheduling_sta_MyScheduling_test_add_scheduling_success - 2018.08.29 at 11h 48m 17s.xml">
-      <configuration name="Unittests for myscheduling_sta.MyScheduling.test_add_scheduling_success" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_myscheduling_sta_MyScheduling_test_add_scheduling_success - 2018.08.29 at 11h 52m 36s.xml">
-      <configuration name="Unittests for myscheduling_sta.MyScheduling.test_add_scheduling_success" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_myscheduling_sta_MyScheduling_test_add_scheduling_success - 2018.08.29 at 13h 27m 32s.xml">
-      <configuration name="Unittests for myscheduling_sta.MyScheduling.test_add_scheduling_success" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_login_sta_LoginTest_test_login_nousererror - 2018.08.30 at 13h 56m 28s.xml">
-      <configuration name="Unittests for login_sta.LoginTest.test_login_nousererror" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_login_sta_py - 2018.08.30 at 14h 06m 18s.xml">
-      <configuration name="Unittests in login_sta.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_login_sta_LoginTest_test_login_nousererror - 2018.08.30 at 14h 51m 40s.xml">
-      <configuration name="Unittests for login_sta.LoginTest.test_login_nousererror" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_for_models_myunit_MyTest - 2018.08.30 at 15h 43m 02s.xml">
       <configuration name="Unittests for models.myunit.MyTest" configurationId="tests" />
     </history-entry>
@@ -505,18 +417,36 @@
     <history-entry file="Unittests_for_case2_myscheduling_sta_MyScheduling_test_01 - 2018.08.31 at 13h 14m 58s.xml">
       <configuration name="Unittests for case2_myscheduling_sta.MyScheduling.test_01" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_for_case4_accountsetting_sta_AccountSetting_test_01 - 2018.09.03 at 15h 37m 29s.xml">
+      <configuration name="Unittests for case4_accountsetting_sta.AccountSetting.test_01" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_case4_accountsetting_sta_AccountSetting - 2018.09.03 at 15h 40m 13s.xml">
+      <configuration name="Unittests for case4_accountsetting_sta.AccountSetting" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_case4_accountsetting_sta_AccountSetting_test_04 - 2018.09.03 at 15h 43m 38s.xml">
+      <configuration name="Unittests for case4_accountsetting_sta.AccountSetting.test_04" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_case4_accountsetting_sta_AccountSetting_test_04 - 2018.09.03 at 15h 44m 25s.xml">
+      <configuration name="Unittests for case4_accountsetting_sta.AccountSetting.test_04" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_case4_accountsetting_sta_AccountSetting_test_02 - 2018.09.03 at 15h 47m 10s.xml">
+      <configuration name="Unittests for case4_accountsetting_sta.AccountSetting.test_02" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_case4_accountsetting_sta_AccountSetting_test_01 - 2018.09.03 at 15h 49m 53s.xml">
+      <configuration name="Unittests for case4_accountsetting_sta.AccountSetting.test_01" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="7" sideWeight="0.50076336" side_tool="true" visible="true" weight="0.3293919" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5015267" side_tool="true" weight="0.4391892" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.3293919" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49923664" weight="0.4391892" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4984733" weight="0.4391892" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3293919" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26030535" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26564884" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -551,26 +481,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/doctor/test_case/page_obj/myschedulingpage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1288">
-          <caret line="62" column="23" lean-forward="true" selection-start-line="62" selection-start-column="23" selection-end-line="62" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doctor/test_case/models/myunit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#27#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/doctor/test_case/page_obj/loginpage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="920">
@@ -619,9 +529,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="17" selection-start-line="17" selection-end-line="20" />
-          <folding>
-            <element signature="e#0#27#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -673,9 +580,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="17" selection-start-line="17" selection-end-line="20" />
-          <folding>
-            <element signature="e#0#27#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -724,9 +628,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
           <caret line="15" column="37" lean-forward="true" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#27#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -833,44 +734,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doctor/test_case/page_obj/basepage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doctor/test_case/page_obj/myschedulingpage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1794">
-          <caret line="78" column="23" lean-forward="true" selection-start-line="78" selection-start-column="23" selection-end-line="78" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doctor/test_case/case2_myscheduling_sta.py">
+    <entry file="file://$PROJECT_DIR$/doctor/test_case/case5_logout_sta.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
           <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doctor/test_case/case4_logout_sta.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doctor/test_case/case3_reservedpatient_sta.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="41" lean-forward="true" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
-          <folding>
-            <element signature="e#0#54#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -911,53 +778,104 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/run_doctor.py">
+    <entry file="file://$PROJECT_DIR$/doctor/test_case/case3_reservedpatient_sta.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <caret line="4" column="41" lean-forward="true" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
           <folding>
-            <element signature="e#0#46#0" expanded="true" />
+            <element signature="e#0#54#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doctor/test_case/models/myunit.py">
+    <entry file="file://$PROJECT_DIR$/doctor/test_case/page_obj/myschedulingpage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#27#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doctor/test_case/page_obj/loginpage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+        <state relative-caret-position="1015">
+          <caret line="78" column="23" lean-forward="true" selection-start-line="78" selection-start-column="23" selection-end-line="78" selection-end-column="23" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doctor/test_case/models/drivers.py">
+    <entry file="file://$PROJECT_DIR$/doctor/test_case/case2_myscheduling_sta.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        <state relative-caret-position="115">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
           <folding>
-            <element signature="e#0#30#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doctor/test_case/page_obj/loginpage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <caret line="25" column="10" lean-forward="true" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doctor/test_case/page_obj/accountsettingpage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2578">
+          <caret line="131" selection-start-line="131" selection-end-line="131" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doctor/test_case/case4_accountsetting_sta.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="49" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#54#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/doctor/test_case/case1_login_sta.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state>
+          <caret selection-end-line="4" selection-end-column="49" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doctor/test_case/page_obj/basepage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_doctor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="20" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doctor/test_case/models/drivers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doctor/test_case/models/myunit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
         </state>
       </provider>
     </entry>

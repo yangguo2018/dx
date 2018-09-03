@@ -4,6 +4,7 @@ from doctor.test_case.page_obj import myschedulingpage
 
 
 class MyScheduling(myunit.MyTest):
+    """排期输入的时间和提交的时候不一致，导致后面的排期用例结果均有问题，后面再排查修复"""
     def test_01(self):
         """成功添加排期用例"""
         lo = myschedulingpage.MySchedulingPage(self.driver)

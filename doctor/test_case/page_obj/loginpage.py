@@ -28,7 +28,7 @@ class LoginPage(Page):
         self.find_element(*self.login_button_loc).click()
 
     # 定义统一的登录入口
-    def user_login(self, username='13916725407', password='123456'):
+    def user_login(self, username='13916725407', password='111111'):
         self.open(self.url)
         self.login_username(username)
         self.login_password(password)
