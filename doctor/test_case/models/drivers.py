@@ -28,6 +28,7 @@ def browser(browsername):
 
 
 if __name__ == '__main__':
+    # 主程序
     dr = browser('Chrome')
     dr.maximize_window()
     dr.get('https://qa-doctor.dr-elephant.com/index')

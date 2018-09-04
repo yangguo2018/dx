@@ -3,7 +3,7 @@ from selenium import webdriver
 import time
 
 """
-定义截图函数，图片保存至E:\PycharmProjects\SeleniumDoctor\doctor\report\image目录
+定义截图函数，图片保存至E:\PycharmProjects\SeleniumDoctor\doctor\\report\image目录
 """
 
 
